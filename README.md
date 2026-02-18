@@ -37,7 +37,7 @@ Always curious, always building.
 
 <a href="https://www.linkedin.com/in/nithin-sai07/">![LinkedIn](https://skillicons.dev/icons?i=linkedin)</a>
 <a href="mailto:ninsai2007@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
-<a href="https://www.instagram.com/nithin-sai07/">![Instagram](https://skillicons.dev/icons?i=instagram)</a>
+<a href="https://www.instagram.com/nithinzx_07/">![Instagram](https://skillicons.dev/icons?i=instagram)</a>
 <!--
 **nithinsai-dev/nithinsai-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
