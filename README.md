@@ -2,11 +2,11 @@
 
 ## 👋 About Me
 
-Hi, I'm **Hariharasudhan D** 👨‍💻  
+Hi, I'm **K NITHIN SAI** 👨‍💻  
 A **Computer Science Engineering student** with a strong interest in **software development** and **problem-solving**.
 
 - 🌱 Currently learning **Data Structures & Algorithms** and strengthening core programming concepts  
-- 💻 Comfortable with **Python, Java, and C++**  
+- 💻 Comfortable with **Python, Java**  
 - 🌐 Building **frontend web projects** using HTML, CSS, and JavaScript  
 - 🧠 Exploring **backend development** and fundamentals of **full-stack development**  
 - 🚀 Actively working on **mini projects** and sharing my learning journey on GitHub  
@@ -17,7 +17,7 @@ Always curious, always building.
 
 ## Programming Languages & Frameworks
 
-![Skills](https://skillicons.dev/icons?i=py,java,cpp,html,css,js)  
+![Skills](https://skillicons.dev/icons?i=py,java,html,css,js)  
 
 ## Tools
 
@@ -26,12 +26,12 @@ Always curious, always building.
 
 ## GitHub Contributions Graph
 
-[![My Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hari2k7&theme=github-dark)](https://github.com/hari2k7)
+[![My Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nithinsai-dev&theme=github-dark)](https://github.com/nithinsai-dev)
 
 
 ## GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-two-blush.vercel.app?user=hari2k7&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-two-blush.vercel.app?user=nithinsai-dev&theme=dark)](https://git.io/streak-stats)
 
 ## Reach Out To Me
 
