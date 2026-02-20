@@ -27,7 +27,7 @@ I’m a passionate and self-motivated Computer Science student who loves buildin
 
 ---
 
-💡 I believe in continuous learning and building. Every project brings me one step closer to becoming a better developer.
+I believe in continuous learning and building. Every project brings me one step closer to becoming a better developer.
 
 ## 💡 My Goal  
 To become a strong developer who can build impactful and intelligent products that solve real-world problems.  
