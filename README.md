@@ -10,12 +10,12 @@ I’m a passionate and self-motivated Computer Science student who loves buildin
 
 ---
 
-## 🚀 Currently Exploring  
+## 🔍 Currently Exploring  
 - Full Stack Web Development    
 - Data Structures and Problem Solving  
 
 ---
-## 🎯 Future Plans & Ideas 
+## 📌 Future Plans & Ideas 
 - Build full-stack real-world projects with modern technologies
 - Explore Artificial Intelligence and integrate it into web applications  
 - Develop and launch my own SaaS products  
@@ -31,17 +31,7 @@ I believe in continuous learning and building. Every project brings me one step 
 
 ## 💡 My Goal  
 To become a strong developer who can build impactful and intelligent products that solve real-world problems.  
-
----
-
-🌱 **Always learning, always building.**  
-
----
-
-
-⭐ *Let’s build something amazing together!*  
-
-
+ 
 ## Programming Languages & Frameworks
 
 ![Skills](https://skillicons.dev/icons?i=py,java,html,css,js)  
