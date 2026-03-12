@@ -4,17 +4,14 @@ Hi 👋 I'm **Nithin Sai**
 
 💻 Full Stack Developer | Exploring AI | Building Real-World Solutions  
 
----
 
 I’m a passionate and self-motivated Computer Science student who loves building modern, user-friendly, and scalable applications. I focus on learning by doing, working on real-world projects, and improving every day through consistency and discipline.  
 
----
 
 ## 🔍 Currently Exploring  
 - Full Stack Web Development    
 - Data Structures and Problem Solving  
 
----
 ## 📌 Future Plans & Ideas 
 - Build full-stack real-world projects with modern technologies
 - Explore Artificial Intelligence and integrate it into web applications  
@@ -25,7 +22,6 @@ I’m a passionate and self-motivated Computer Science student who loves buildin
 - Strengthen knowledge in cybersecurity and secure coding practices  
 - Learn cloud, deployment, and DevOps fundamentals
 
----
 
 I believe in continuous learning and building. Every project brings me one step closer to becoming a better developer.
 
