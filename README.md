@@ -1,6 +1,6 @@
 # Code. Learn. Build. Repeat. 🚀  
 
-Hi 👋 I'm **Nithin Sai The Great Dev**  
+Hi 👋 I'm **Nithin Sai**  
 
 💻 Full Stack Developer | Exploring AI | Building Real-World Solutions  
 
