@@ -40,6 +40,7 @@ To become a strong developer who can build impactful and intelligent products th
 ## GitHub Contributions Graph
 
 [![My Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nithinsai-dev&theme=github-dark)](https://github.com/nithinsai-dev)
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nithinsai-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 
 ## GitHub Stats
