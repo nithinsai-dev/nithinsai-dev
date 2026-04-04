@@ -30,11 +30,11 @@ To become a strong developer who can build impactful and intelligent products th
  
 ## Programming Languages & Frameworks
 
-![Skills](https://skillicons.dev/icons?i=py,java,html,css,js)  
+![Skills](https://skillicons.dev/icons?i=py,java,html,css,js,bootstrap,express,jquery,mysql,nodejs,npm,postgres)  
 
 ## Tools
 
-![My Tools](https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse,bootstrap,md,html,git,github,arduino)
+![My Tools](https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse,md,git,github,arduino,bash,notion,postman)
 
 
 ## GitHub Contributions Graph
