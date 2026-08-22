@@ -43,9 +43,8 @@ To become a strong developer who can build impactful and intelligent products th
 <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nithinsai-dev&show_icons=true&theme=tokyonight&hide_border=true"/>-->
 
 
-<!--## GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats-two-blush.vercel.app?user=nithinsai-dev&theme=dark)](https://git.io/streak-stats)-->
+## GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats-two-blush.vercel.app?user=nithinsai-dev&theme=dark)](https://git.io/streak-stats)
 
 ## Reach Out To Me
 
